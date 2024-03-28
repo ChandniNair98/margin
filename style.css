@@ -1,0 +1,33 @@
+.card {
+    width: 800px;
+    background: #fff;
+    /* margin: 16px auto; */
+    margin: auto;
+  }
+  
+
+
+.titllle{
+    padding: 8px;
+    background-color: lightblue;
+}
+
+.content{
+    padding: 8px;
+    background-color: lightblue;
+}
+
+.bc1 {
+    text-align: center;
+    padding: 8px;
+    background-color: lightblue;
+    margin-top: 8px;
+  }
+
+  button {
+    display: block;
+    /* margin: 0 auto; */
+    margin: auto;
+    /* padding: 8px 24px; */
+    padding: 5px
+  }
